@@ -1,5 +1,7 @@
 # Hi there, I'm Andrea 👋 :pizza: :beer: :computer: 
 
+<a class="twitter-follow-button" href="https://twitter.com/TwitterDev">Follow @TwitterDev</a>
+
 ### I'm a Software Architech, a Teacher!
 
 ---
