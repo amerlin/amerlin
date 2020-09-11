@@ -1,7 +1,5 @@
 # Hi there, I'm Andrea 👋 :pizza: :beer: :computer: 
 
-<a href="https://twitter.com/an_merlin?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @an_merlin</a>
-
 ### I'm a Software Architech, a Teacher!
 
 ---
