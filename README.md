@@ -1,6 +1,6 @@
 # Hi there, I'm Andrea 👋 :pizza: :beer: :computer: 
 
-### I'm a Software Architech, a Teacher!
+### I'm a Software Architech, a Trainer!
 
 ---
 
