@@ -8,6 +8,18 @@
 
 I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.net)
 
+---
+
+Languages and Tools:
+
+---
+
+Connect with me:
+
+---
+
+
+
 <!--
 **amerlin/amerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
