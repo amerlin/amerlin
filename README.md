@@ -24,9 +24,7 @@ I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.n
 
 ### Connect with me:
 
-<a href="https://twitter.com/an_merlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="an_merlin" height="30" width="30" /></a> &nbsp; &nbsp;  
-<a href="https://linkedin.com/in/amerlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amerlin" height="30" width="30" /></a> &nbsp; &nbsp; 
-<a href="https://instagram.com/and_merlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="and_merlin" height="30" width="30" /></a> &nbsp; &nbsp;  
+<a href="https://twitter.com/an_merlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="an_merlin" height="30" width="30" /></a> &nbsp; &nbsp;<a href="https://linkedin.com/in/amerlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amerlin" height="30" width="30" /></a> &nbsp; &nbsp; <a href="https://instagram.com/and_merlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="and_merlin" height="30" width="30" /></a> &nbsp; &nbsp;
 
 -----
 
