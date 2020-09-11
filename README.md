@@ -1,5 +1,7 @@
 ### Hi there, I'm Andrea 👋 :pizza: :beer: :computer: 
 
+---
+
 I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.net)
 
 <!--
