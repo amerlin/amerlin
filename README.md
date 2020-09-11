@@ -21,6 +21,10 @@ I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.n
 
 ### Connect with me:
 
+Twitter: https://www.twitter.com/an_merlin
+Website: https://amerlin.keantex.com
+Instagram: https://www.instagram.com/and_merlin/
+
 -----
 
 
