@@ -1,4 +1,6 @@
-### Hi there, I'm Andrea 👋 :pizza: 
+### Hi there, I'm Andrea 👋 :pizza: :beer: :computer: 
+
+I'm co-founder and Community Leader of DotNetTortona
 
 <!--
 **amerlin/amerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
