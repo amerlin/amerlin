@@ -18,8 +18,8 @@ I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.n
 
 -----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Kubernetes, DevOps, Office365 Integrations
+- 🔭 I’m currently working on .NET Applications, Angular/React Applications
+- 🌱 I’m currently learning Kubernetes, DevOps, Blazor, Office365 Integrations
 
 
 <!--
