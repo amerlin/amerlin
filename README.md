@@ -8,15 +8,15 @@
 
 I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.net)
 
-----
+-----
 
 ### Languages and Tools:
 
-----
+-----
 
 ### Connect with me:
 
-----
+-----
 
 
 
