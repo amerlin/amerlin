@@ -16,7 +16,7 @@ I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.n
 
 ### Languages and Tools:
 
-<p></p>
+<p><img align="left" alt="Visual Studio" width="26px" src="https://camo.githubusercontent.com/1f7f5ad54118605441b48edb55c26b7c0a75cc5162e22a370a868abdbeb366b6/68747470733a2f2f76697375616c73747564696f2e6d6963726f736f66742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30362f4272616e6456697375616c53747564696f57696e323031392d332e737667" data-canonical-src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" style="max-width: 100%;"></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"><img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="max-width:100%;"></a></p>
 <p></p>
 <p></p>
