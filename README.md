@@ -35,7 +35,9 @@ I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.n
 <a href="https://linkedin.com/in/amerlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amerlin" width="22px"  /></a> &nbsp;<a href="https://instagram.com/and_merlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="and_merlin" width="22px"  /></a>&nbsp;
 -----
 
-[![AI generativa, evoluzione e futuro](https://img.youtube.com/vi/NESCLpM77xc&t=2547s/0.jpg)](https://www.youtube.com/watch?v=NESCLpM77xc&t=2547s)
+### 📺 Latest YouTube Videos
+
+- <a href="https://www.youtube.com/watch?v=NESCLpM77xc&t=2547s" target="blank">AI generativa, evoluzione e futuro </a>
 
 <!--
 **amerlin/amerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
