@@ -38,6 +38,7 @@ I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.n
 ### 📺 Latest YouTube Videos
 
 - <a href="https://www.youtube.com/watch?v=NESCLpM77xc&t=2547s" target="blank">AI generativa, evoluzione e futuro </a>
+- <a href="https://www.youtube.com/watch?v=9g5ilUkdESc" target="blank">OpenAPI: uso con minimal API</a>
 
 <!--
 **amerlin/amerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
