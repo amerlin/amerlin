@@ -30,11 +30,6 @@ I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.n
 
 -----
 
-### Connect with me:
-
-<a href="https://linkedin.com/in/amerlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amerlin" width="22px"  /></a> &nbsp;<a href="https://instagram.com/and_merlin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="and_merlin" width="22px"  /></a>&nbsp;
------
-
 ### 📺 Latest YouTube Videos
 
 - <a href="https://www.youtube.com/watch?v=NESCLpM77xc&t=2547s" target="blank">AI generativa, evoluzione e futuro </a>
