@@ -4,8 +4,8 @@
 
 ---
 
-I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.net)
-Active member of [Dot Net Liguria](https://www.dotnetliguria.net/)
+### I'm co-founder and Community Leader of   [DotNetTortona](https://dotnettortona.net)
+### Active member of [Dot Net Liguria](https://www.dotnetliguria.net/)
 -----
 
 - 🔭 I’m currently working on .NET Applications, Angular/React Applications
